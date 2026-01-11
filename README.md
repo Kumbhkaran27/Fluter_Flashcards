@@ -31,14 +31,6 @@ File System	path_provider, path
 Asset Data	JSON starter file
 Languages	Dart
 
-🗂 Project Structure
-lib/
-├── models/        # Flashcard and Deck models
-├── views/         # Screens (DeckList, CardList, Quiz, Editors)
-├── utils/         # DB helper, JSON loader, helpers
-├── main.dart
-assets/
-└── flashcards.json
 
 💡 How It Works
 
